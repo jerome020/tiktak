@@ -1,0 +1,28 @@
+ .heading{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
+ }
+ .table{
+    margin: auto;
+ }
+
+ .table tr td{
+    /* border: 1px solid #e2e2e2 ; */
+    /* padding: 20px; */
+ }
+
+ .button-container{
+   /* text-align: center; */
+   display: flex;
+   justify-content: center;
+   margin: 10px 10px;
+ }
+
+ .button-container button{
+   background-color: blanchedalmond;
+   color: black;
+   text-transform: uppercase;
+   padding: 10px 10px;
+   border-radius: 10px ;
+ }
